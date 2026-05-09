@@ -2,11 +2,15 @@
 
 @font-face {
     font-family: "Envy Code R";
-    src: url("assets/Envy Code R.ttf") format(truetype);
+    src: url("assets/envycoder/Envy Code R.ttf") format(truetype);
 }
 @font-face {
     font-family: "Envy Code R Bold";
-    src: url("assets/Envy Code R Bold.ttf") format(truetype);
+    src: url("assets/envycoder/Envy Code R Bold.ttf") format(truetype);
+}
+@font-face {
+    font-family: "Envy Code R Italic";
+    src: url("assets/envycoder/Envy Code R Bold.ttf") format(truetype);
 }
 
 :root {
